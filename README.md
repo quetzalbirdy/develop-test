@@ -5,6 +5,7 @@ I used the environment that was proposed in the test. In the /src folder you can
 
 # Dependancies
 > node ^10.15.3
+> grunt-cli ```npm install -g grunt-cli```
 
 # Get Started
 
@@ -42,10 +43,10 @@ All free to download or include from [https://fonts.google.com/specimen/Libre+Fr
 I treated this as an exercise, so some desitions are based on showing different approaches and some are made to build in a simpler and quicker way. 
 - Decisions?
 I put extra focus on the user experience and clean code. 
-The cart app is very simple in how it works. If it would be a real project, the ways APIs are called would be from a class in a separate file and folder and probably the whole project would be a Reactjs app. I would have used a state management tool like "Redux" to manage the states of the items in the cart and to show also how much items are on the menu in all pages.
-If I had more time for the project I would have done a toggle and management of "dark/light" modus of the page (the variables are defined in this way and there is some commented code for the dark modus), I also would have worked on some small animations/transitions in the cart app when for example a whole row is deleted, so thay it has a transition or fade out and I would have worked more on the experience when the user selects the "Buy now" button.
+The cart app is very simple in how it works. If it would be a real project, the ways APIs are called would be from a class in a separate file and folder and probably the whole project would be a Reactjs app. I would have used a state management tool like "Redux" to manage the states of the items in the cart through all pages and to show also how much items are in the cart on the menu, above the cart icon, in all pages.
+If I had more time for the project I would have done a toggle and management of "dark/light" modus of the page (the css variables are defined in this way and there is some commented code for the dark mode), I also would have worked on some small animations/transitions in the cart app when for example a whole row is deleted, so that it has a transition or fade out and I would have worked more on the experience when the user selects the "Buy now" button and what happens after that.
 - What you used to develop and test?
-I used the proposed environment with grunt and express.
+I used the proposed environment with grunt and express. I have not so much experience doing testing, so I decided to focus more on my strengths.
 
 
 ## What did you think of this test/exercise?
