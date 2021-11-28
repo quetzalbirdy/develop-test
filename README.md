@@ -1,7 +1,7 @@
 # My Application
 
 Considering this is not a real world aplication, I chose to build the home page in plain html+css+js and the cart as a ssmall reactjs app.
-I used the environment that was proposed in the test. In the source folder you can find an html document for the home page and another for the cart and in scripts is a general script (app.js), and in the "react-app" folder are the react files.
+I used the environment that was proposed in the test. In the /src folder you can find an html document for the home page and another for the cart and in /scripts is a general script (app.js), and in the /react-app folder are the react files.
 
 # Dependancies
 > node ^10.15.3
@@ -33,8 +33,8 @@ Look in ```./design-assets```
 All free to download or include from [https://fonts.google.com/specimen/Libre+Franklin](https://fonts.google.com/specimen/Libre+Franklin) (Regular and ExtraLight)
 
 ## Which Browsers/Devices or Virtualisation services did you check the application in?
-Mozilla Firefox / Mac computer
-Chrome / Mac computer
+- Mozilla Firefox / Mac computer
+- Chrome / Mac computer
 
 
 ## Anything you want to tell us?
