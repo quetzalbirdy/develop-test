@@ -48,6 +48,10 @@ The cart app is very simple in how it works. If it would be a real project, the 
 If I had more time for the project I would have done a toggle and management of "dark/light" modus of the page (the css variables are defined in this way and there is some commented code for the dark mode), I also would have worked on some small animations/transitions in the cart app when for example a whole row is deleted, so that it has a transition or fade out and I would have worked more on the experience when the user selects the "Buy now" button and what happens after that.
 - What you used to develop and test?
 I used the proposed environment with grunt and express. I have not so much experience doing testing, so I decided to focus more on my strengths.
+- Libraries used and why?
+I used scrollreveal for the scroll effect and swiperjs for the carousel. I used both libraries because they are simple to implement, open source, lightweight and don´t have any extra features I don´t need for this project. I also used react for the cart page, since it is a good way to manage reactive apps and state based functionalities.
+- How long you spent?
+I used about 18-20 hours. 
 
 
 ## What did you think of this test/exercise?
