@@ -35,8 +35,8 @@ Look in ```./design-assets```
 All free to download or include from [https://fonts.google.com/specimen/Libre+Franklin](https://fonts.google.com/specimen/Libre+Franklin) (Regular and ExtraLight)
 
 ## Which Browsers/Devices or Virtualisation services did you check the application in?
-- Mozilla Firefox / Mac computer
-- Chrome / Mac computer
+- Mozilla Firefox developer (90.0b6) / Mac computer
+- Chrome (96.0.4664.55) / Mac computer
 
 
 ## Anything you want to tell us?
