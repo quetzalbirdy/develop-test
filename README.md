@@ -5,6 +5,7 @@ I used the environment that was proposed in the test. In the /src folder you can
 
 # Dependancies
 > node ^10.15.3
+
 > grunt-cli ```npm install -g grunt-cli```
 
 # Get Started
